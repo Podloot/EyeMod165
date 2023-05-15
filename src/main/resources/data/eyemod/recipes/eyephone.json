@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "eyemod:eyecore"
+    },
+    {
+      "item": "eyemod:battery"
+    },
+    {
+      "item": "eyemod:cover"
+    },
+    {
+      "item": "eyemod:display"
+    },
+    {
+      "item": "eyemod:drive"
+    },
+    {
+      "item": "eyemod:wire"
+    }
+  ],
+  "result": {
+    "item": "eyemod:eyephone",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XYX",
+    "YZY",
+    "XYX"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Z": {
+      "item": "minecraft:ender_eye"
+    },
+    "Y": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "eyemod:router"
+  }
+}

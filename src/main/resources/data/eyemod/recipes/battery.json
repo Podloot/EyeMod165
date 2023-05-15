@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "YZY",
+    "YZY"
+  ],
+  "key": {
+    "X": {
+      "item": "eyemod:wire"
+    },
+    "Y": {
+      "item": "minecraft:iron_ingot"
+    },
+    "Z": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "eyemod:battery"
+  }
+}

@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "on=false,level=0": { "model": "eyemod:block/charger_0" },
+        "on=false,level=1": { "model": "eyemod:block/charger_1" },
+        "on=false,level=2": { "model": "eyemod:block/charger_2" },
+        "on=false,level=3": { "model": "eyemod:block/charger_3" },
+        "on=false,level=4": { "model": "eyemod:block/charger_4" },
+        "on=false,level=5": { "model": "eyemod:block/charger_5" },
+        "on=false,level=6": { "model": "eyemod:block/charger_6" },
+        "on=false,level=7": { "model": "eyemod:block/charger_7" },
+        "on=false,level=8": { "model": "eyemod:block/charger_8" },
+	  "on=true,level=0": { "model": "eyemod:block/charger_on_0" },
+        "on=true,level=1": { "model": "eyemod:block/charger_on_1" },
+        "on=true,level=2": { "model": "eyemod:block/charger_on_2" },
+        "on=true,level=3": { "model": "eyemod:block/charger_on_3" },
+        "on=true,level=4": { "model": "eyemod:block/charger_on_4" },
+        "on=true,level=5": { "model": "eyemod:block/charger_on_5" },
+        "on=true,level=6": { "model": "eyemod:block/charger_on_6" },
+        "on=true,level=7": { "model": "eyemod:block/charger_on_7" },
+        "on=true,level=8": { "model": "eyemod:block/charger_on_8" }
+
+    }
+}

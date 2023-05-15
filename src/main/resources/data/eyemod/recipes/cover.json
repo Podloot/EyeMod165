@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X",
+    "XYX"
+  ],
+  "key": {
+    "Y": {
+      "item": "eyemod:wire"
+    },
+    "X": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "eyemod:cover"
+  }
+}

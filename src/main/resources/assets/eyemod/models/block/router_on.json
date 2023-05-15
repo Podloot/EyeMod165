@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "eyemod:block/router_top",
+    "side": "eyemod:block/router_on"
+  }
+}

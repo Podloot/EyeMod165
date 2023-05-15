@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YZY",
+    "XXX"
+  ],
+  "key": {
+    "Y": {
+      "item": "eyemod:wire"
+    },
+    "X": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "Z": {
+      "item": "minecraft:ender_eye"
+    }
+  },
+  "result": {
+    "item": "eyemod:eyecore"
+  }
+}

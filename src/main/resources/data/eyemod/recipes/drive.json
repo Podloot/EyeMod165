@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "YYY",
+    "YZY",
+    "YXY"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:chest"
+    },
+    "Y": {
+      "item": "minecraft:paper"
+    },
+    "Z": {
+      "item": "eyemod:wire"
+    }
+  },
+  "result": {
+    "item": "eyemod:drive"
+  }
+}

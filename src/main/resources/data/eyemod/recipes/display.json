@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " X ",
+    "XZX",
+    "YXY"
+  ],
+  "key": {
+    "Y": {
+      "item": "eyemod:wire"
+    },
+    "X": {
+      "item": "minecraft:gold_ingot"
+    },
+    "Z": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "item": "eyemod:display"
+  }
+}

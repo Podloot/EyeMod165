@@ -1,0 +1,285 @@
+{
+	//Translation file of the EyeMod
+	//Russian translation done by SfortzaPhantom [sfortzaphantom.carrd.co]
+	//Items
+	"item.eyemod.eyephone": "EyePhone",
+	"item.eyemod.eyecore": "ЦПУ",
+	"item.eyemod.cover": "Корпус",
+	"item.eyemod.display": "Дисплей",
+	"item.eyemod.battery": "Батарея",
+	"item.eyemod.drive": "Флеш-накопитель",
+	"item.eyemod.wire": "Провод",
+	"block.eyemod.router": "Маршрутизатор",
+	"block.eyemod.charger": "Зарядное устройство",
+
+	//Apps
+	"app.eyemod.settings.name": "Настройки",
+	"app.eyemod.settings.desc": "Управляйте устройством",
+	
+	"app.eyemod.store.name": "Магазин",
+	"app.eyemod.store.desc": "Покупайте и продавайте приложения",
+	
+	"app.eyemod.mail.name": "Почта",
+	"app.eyemod.mail.desc": "Получайте электронные письма",
+	
+	"app.eyemod.network.name": "Сеть",
+	"app.eyemod.network.desc": "Обменивайтесь постами с другими игроками",
+	
+	"app.eyemod.contacts.name": "Контакты",
+	"app.eyemod.contacts.desc": "Сохраняйте и добавляйте контакты",
+	
+	"app.eyemod.messages.name": "Сообщения",
+	"app.eyemod.messages.desc": "Переписки 1 на 1",
+	
+	"app.eyemod.chat.name": "Чат",
+	"app.eyemod.chat.desc": "Общайтесь с другими игроками",
+	
+	"app.eyemod.maps.name": "Карты",
+	"app.eyemod.maps.desc": "Карта мира",
+	
+	"app.eyemod.waypoint.name": "Точки",
+	"app.eyemod.waypoint.desc": "Сохраняйте важные координаты",
+	
+	"app.eyemod.clock.name": "Часы",
+	"app.eyemod.clock.desc": "Следите за временем",
+	
+	"app.eyemod.notes.name": "Заметки",
+	"app.eyemod.notes.desc": "Не упускайте важное",
+	
+	"app.eyemod.camera.name": "Камера",
+	"app.eyemod.camera.desc": "Фотографируйте все вокруг",
+	
+	"app.eyemod.console.name": "Консоль",
+	"app.eyemod.console.desc": "Выполняйте команды",
+	
+	"app.eyemod.photos.name": "Галерея",
+	"app.eyemod.photos.desc": "Просматривайте свои фотографии",
+	
+	"app.eyemod.music.name": "Музыка",
+	"app.eyemod.music.desc": "Все диски у Вас в кармане",
+	
+	"app.eyemod.tnt.name": "TNT",
+	"app.eyemod.tnt.desc": "Устраивайте взрывы разной мощности",
+
+	"app.eyemod.magic.name": "Магия",
+	"app.eyemod.magic.desc": "Применяйте эффекты зелий",
+
+	"app.eyemod.spawner.name": "Спавнер",
+	"app.eyemod.spawner.desc": "Призывайте мобов",
+
+	"app.eyemod.teleport.name": "Телепорт",
+	"app.eyemod.teleport.desc": "Телепортируйтесь по координатам",
+
+	"app.eyemod.world.name": "Мир",
+	"app.eyemod.world.desc": "Управляйте миром вокруг",
+
+	"app.eyemod.xray.name": "XRay",
+	"app.eyemod.xray.desc": "Сканируйте мир и ищите ценности под землей",
+
+	"app.eyemod.warp.name": "Варп",
+	"app.eyemod.warp.desc": "Телепортируйтесь на Ваши точки",
+	
+	"app.eyemod.weather.name": "Погода",
+	"app.eyemod.weather.desc": "Следите за погодой",
+	
+	"app.eyemod.spawn.name": "Дом",
+	"app.eyemod.spawn.desc": "Телепортируйтесь на предустановленные локации",
+	
+	"app.eyemod.players.name": "Игроки",
+	"app.eyemod.players.desc": "Управляйте игроками в мире",
+
+	//General Text
+	"text.eyemod.test": "Тест",
+	"text.eyemod.add": "Добавить",
+	"text.eyemod.buy": "Купить",
+	"text.eyemod.remove": "Удалить",
+	"text.eyemod.open": "Открыть",
+	"text.eyemod.close": "Закрыть",
+	"text.eyemod.player": "Игрок",
+	"text.eyemod.name": "Имя",
+	"text.eyemod.start": "Старт",
+	"text.eyemod.warp": "Варп",
+	"text.eyemod.position": "Позиция",
+	"text.eyemod.player": "Игрок",
+	"text.eyemod.set": "Ввести",
+	"text.eyemod.change": "Изменить",
+	"text.eyemod.cancel": "Отменить",
+	"text.eyemod.post": "Пост",
+	"text.eyemod.react": "Ответить",
+	"text.eyemod.reaction": "Ответ",
+	"text.eyemod.title": "Название",
+	"text.eyemod.message": "Сообщение",
+	"text.eyemod.note": "Заметка",
+	"text.eyemod.read": "Прочитать",
+	"text.eyemod.edit": "Редактировать",
+	"text.eyemod.list": "Список",
+	"text.eyemod.entity": "Сущность",
+	"text.eyemod.spawn": "Спавн",
+	"text.eyemod.positive": "Позитивные",
+	"text.eyemod.neutral": "Нейтральные",
+	"text.eyemod.negative": "Негатвные",
+	"text.eyemod.effect": "Эффект",
+	"text.eyemod.apply": "Применить",
+	"text.eyemod.clear": "Очистить",
+	"text.eyemod.infinite": "Бесконечно",
+	"text.eyemod.time": "Время",
+	"text.eyemod.minutes": "Минуты",
+	"text.eyemod.seconds": "Секунды",
+	"text.eyemod.biome": "Биом",
+	"text.eyemod.kick": "Выгнать",
+	"text.eyemod.reason": "Причина",
+	
+	//Notifications & Other
+	"text.eyemod.notify_connection": "Подключитесь к EyeNet, чтобы использовать это приложение!",
+	"text.eyemod.notify_location": "Перед использованием этого приложения необходимо предоставить доступ к своему местоположению в настройках!",
+	"text.eyemod.notify_storage": "У Вас недостаточно памяти для выполнения этого действия",
+	"text.eyemod.notify_routerstorage": "В Вашем маршрутизаторе закончился объем памяти",
+	"text.eyemod.battery_empty": "Батарея разряжена",
+	"text.eyemod.block_router_connect": "Подключено",
+	"text.eyemod.block_router_off": "Этот маршрутизатор выключен",
+
+	//Hovering
+	"text.eyemod.hover_currentpos": "Выбрать текущую позицию",
+	"text.eyemod.hover_waypoints": "Выбрать из точек",
+	"text.eyemod.hover_mappos": "Выбрать с карты",
+	"text.eyemod.hover_lookingat": "Выбрать с направления взгляда",
+	"text.eyemod.hover_dimension": "Изменить измерение",
+	"text.eyemod.hover_contacts": "Выбрать из контактов",
+	"text.eyemod.hover_online": "Выбрать из списка игроков онлайн",
+	"text.eyemod.hover_suggestion": "Используйте tab/enter, чтобы выбрать предложение",
+	"text.eyemod.hover_trans": "Изменить прозрачность карты",
+	"text.eyemod.hover_deletehome": "Удалить дом",
+	
+	//Store
+	"text.eyemod.store_price": "${v}",
+	"text.eyemod.store_apps": "Приложения",
+	"text.eyemod.store_bought": "Спасибо за покупку!",
+	"text.eyemod.store_money": "У Вас недостаточно денег, чтобы купить это приложение.",
+	"text.eyemod.store_out": "Похоже, Вы уже купили все доступные приложения.",
+
+	//Settings
+	"text.eyemod.settings_device": "Настройки EyePhone",
+	"text.eyemod.settings_apps": "Настройки приложений",
+	"text.eyemod.settings_general": "Общие",
+	"text.eyemod.settings_appman": "Управление приложениями",
+	"text.eyemod.settings_cleardevice": "Сброс устройства",
+	"text.eyemod.settings_clearconfirm": "Вы уверены, что хотите сбросить все данные? (за исключением приложений и денег)",
+	"text.eyemod.settings_clearapp": "Очистить данные",
+	"text.eyemod.settings_deinstall": "Удалить",
+	"text.eyemod.settings_battery": "Батарея: {v}",
+	"text.eyemod.settings_storage": "Хранилище: {v}",
+	"text.eyemod.settings_clear": "Очистить данные",
+	"text.eyemod.settings_account": "Аккаунт",
+	"text.eyemod.settings_money": "Перевести деньги (${v}):",
+
+	"text.eyemod.settings_customization": "Кастомизация",
+	"text.eyemod.settings_border": "Устройство:",
+	"text.eyemod.settings_background": "Фон:",
+	"text.eyemod.settings_custom": "Свой фон",
+	"text.eyemod.settings_privacy": "Конфиденциальность",
+	"text.eyemod.settings_face": "Face ID",
+	"text.eyemod.settings_location": "Доступ к местоположению",
+	"text.eyemod.settings_notifications": "Разрешить уведомления",
+	"text.eyemod.settings_eyenet": "EyeNet",
+	"text.eyemod.settings_disconnect": "Отключиться",
+	"text.eyemod.settings_enterpassword": "Введите пароль:",
+	"text.eyemod.settings_password": "Пароль",
+	"text.eyemod.settings_managenet": "Настройки маршрутизатора",
+	
+	//Net
+	"text.eyemod.net_status": "Статус подключения:",
+	"text.eyemod.net_enter": "Введите пароль для подключения",
+	"text.eyemod.net_public": "Подключение к маршрутизатору",
+	"text.eyemod.net_connect": "Подключиться",
+	"text.eyemod.net_connection": "Подключений: {v}",
+	"text.eyemod.net_router": "Маршрутизатор: {v}",
+	"text.eyemod.net_owner": "Владелец: {v}",
+	"text.eyemod.net_password": "Пароль: {v}",
+	"text.eyemod.net_storage": "Хранилище: {v}",
+	"text.eyemod.net_change": "Изменить пароль:",
+	"text.eyemod.net_noconnection": "Нет подключения",
+	
+	"text.eyemod.net_clear": "Очистить хранилище маршрутизатора",
+	"text.eyemod.net_changepassword": "Изменить пароль:",
+	
+	//Mail
+	"text.eyemod.mail_filter": "Фильтровать спам",
+		
+	//Notes
+	"text.eyemod.notes_new": "Новая заметка",
+	
+	//Chat
+	"text.eyemod.chat_local": "Локальный чат",
+	"text.eyemod.chat_distance": "Радиус локального чата: {v}",
+	"text.eyemod.chat_message": "Сообщение",
+	
+	//Maps
+	"text.eyemod.map_size": "Размер карты: {v}",
+	
+	//Clock
+	"text.eyemod.clock_timer": "Таймер",
+	"text.eyemod.clock_stopwatch": "Секундомер",
+	
+	//Camera
+	"text.eyemod.camera_resolution": "Высокое разрешение",
+	
+	//Notes
+	"text.eyemod.notes_note": "Заметка",
+	
+	//Console
+	"text.eyemod.console_command": "Команда",
+	
+	//Photos
+	"text.eyemod.photos_rename": "Переименовать:",
+	"text.eyemod.photos_delete": "Вы уверены, что хотите удалить эту фотографию?",
+	
+	
+	//Network
+	"text.eyemod.network_create": "Создать новый пост",
+	"text.eyemod.network_reaction": "Ответить:",
+	"text.eyemod.network_delete": "Вы уверены, что хотите удалить этот пост?",
+	
+	//TNT
+	"text.eyemod.tnt_explode": "Взорвать",
+	"text.eyemod.tnt_fire": "Огонь",
+	"text.eyemod.tnt_damage": "Урон",
+	"text.eyemod.tnt_timer": "Таймер:",
+	"text.eyemod.tnt_size": "Сила взрыва: {v}",
+	
+	//Teleport
+	"text.eyemod.teleport_tp": "Телепортироваться",
+	"text.eyemod.teleport_to": "Телепортироваться к:",
+	"text.eyemod.teleport_target": "Выбрать игрока:",
+	
+	//Spawner
+	"text.eyemod.spawner_tospawn": "Выбрать сущность:",
+	"text.eyemod.spawner_amount": "Количество: {v}",
+	"text.eyemod.spawner_info": "Параметры:",
+	
+	//XRay
+	"text.eyemod.xray_legend": "Обозначения",
+	
+	//Spawner
+	"text.eyemod.magic_effect": "Выбрать эффект:",
+	"text.eyemod.magic_level": "Сила эффекта: {v}",
+	
+	//World
+	"text.eyemod.world_time": "Установить время на: {v}",
+	
+	//Weather
+	"text.eyemod.weather_sunny": "Солнечно",
+	"text.eyemod.weather_raining": "Дождь",
+	"text.eyemod.weather_snowing": "Снегопад",
+	"text.eyemod.weather_thunder": "Гроза",
+	"text.eyemod.weather_degrees": "{v} °C",
+	"text.eyemod.weather_humidity": "Влажность: {v}",
+	"text.eyemod.weather_rain": "Вероятность дождя: {v}",
+	
+	//Spawn
+	"text.eyemod.spawn_home": "Установить дом",
+	
+	"text.eyemod.end": "End"
+
+	
+
+}
